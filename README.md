@@ -3,7 +3,7 @@
 ### 🛡️ Cyber Security Student | Tech Explorer | Future Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Python+Developer;Full+Stack+Web+Developer;AI+%26+ML+Explorer;Building+Real-World+Projects;Always+Learning+Something+New;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Python+Developer;Full+Stack+Web+Developer;AI+%26+ML+Explorer;Building+Real-World+Projects;Always+Learning+Something+New;" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ gokul = {
 
 ## 💻 Tech Stack
 
-### 🐍 Programming & Development
+### 🐍 Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css&perline=7"/>
@@ -117,7 +117,11 @@ gokul = {
 ### 🎨 Design & Creative
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,canva&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
@@ -130,7 +134,7 @@ gokul = {
 
 ### 🛡️ Cyber Security Projects
 
-Exploring security through practical projects, vulnerable applications, CTFs, web security labs, and hands-on experimentation.
+Exploring security through practical projects, CTFs, web security labs, vulnerable applications, and hands-on experimentation.
 
 </td>
 
@@ -138,7 +142,7 @@ Exploring security through practical projects, vulnerable applications, CTFs, we
 
 ### 🌐 Full Stack Applications
 
-Building modern responsive web applications with clean UI, authentication, databases, APIs, and real-world functionality.
+Building modern responsive web applications with authentication, databases, APIs, and real-world functionality.
 
 </td>
 </tr>
@@ -156,38 +160,46 @@ Experimenting with AI, automation, intelligent assistants, and practical AI-powe
 
 ### 💼 Freelance Development
 
-Creating modern websites and applications for real-world users using AI-assisted and modern development workflows.
+Creating modern websites and applications using AI-assisted development and modern web technologies.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security-Exploring-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Security-Exploring-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-8B5CF6?style=for-the-badge"/>
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:tamilnagaraj0303@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
 
- 
+  
 
 <a href="https://x.com/gokul2207pt">
-<img src="https://img.shields.io/badge/X-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/X-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
 </a>
 
- 
+  
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+<a href="https://github.com/Gokul-CyberExpert">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-1C1D21?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/Gokul-CyberExpert">
-    <img src="https://img.shields.io/badge/GITHUB-Gokul--CyberExpert-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -195,25 +207,44 @@ Creating modern websites and applications for real-world users using AI-assisted
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gokul-CyberExpert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Gokul-CyberExpert&theme=tokyonight&hide_border=true"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Gokul-CyberExpert&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+  />
+
+<img
+ width="49%"
+ src="https://streak-stats.demolab.com?user=Gokul-CyberExpert&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-CyberExpert&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-CyberExpert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+  />
 </p>
+
 ---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gokul-CyberExpert&theme=tokyonight&no-frame=true&margin-w=8"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Gokul-CyberExpert&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+  />
 </p>
 
 ---
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-CyberExpert&theme=tokyo-night&hide_border=true"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-CyberExpert&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27"
+  />
 </p>
 
 ---
@@ -222,9 +253,24 @@ Creating modern websites and applications for real-world users using AI-assisted
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake-dark.svg"/>
+
+```
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="GitHub contribution snake"
+  src="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake-dark.svg"
+/>
+```
+
   </picture>
 </p>
 
@@ -233,7 +279,9 @@ Creating modern websites and applications for real-world users using AI-assisted
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gokul-CyberExpert&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=181717&color=00E5FF"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Gokul-CyberExpert&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=181717&color=00E5FF"
+  />
 </p>
 
 ---
@@ -241,13 +289,19 @@ Creating modern websites and applications for real-world users using AI-assisted
 ## ⚡ Fun Fact
 
 <p align="center">
-  <b>I don't just use technology — I like understanding how it works, how it breaks, and how to secure it.</b>
+  <b>
+    I don't just use technology — I like understanding how it works,
+    how it breaks, and how to secure it.
+  </b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=0:00E5FF,50:111827,100:0B0B0F" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=0:00E5FF,50:111827,100:0B0B0F"
+    width="100%"
+  />
 </p>
 
 <p align="center">
