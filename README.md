@@ -14,6 +14,12 @@
 
 ## 🎯 About Me
 
+<div align="center">
+
+<table>
+<tr>
+<td width="55%" valign="top" align="left">
+
 ```python
 gokul = {
     "name": "Gokul N",
@@ -48,11 +54,22 @@ gokul = {
 }
 ```
 
-<p align="center">
-  <i>"Learning technology by building real things and understanding how they work."</i>
-</p>
+<i>"Learning technology by building real things
+and understanding how they work."</i>
 
----
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://i.pinimg.com/1200x/06/55/72/0655729d9463bf4caaef5d6bca3ce635.jpg"
+     width="260"
+     alt="Cyber Security"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+--
 
 ## 🛡️ Cyber Security
 
