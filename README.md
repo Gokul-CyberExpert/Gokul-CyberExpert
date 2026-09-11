@@ -43,13 +43,6 @@ gokul = {
         "AI & Machine Learning"
     ],
 
-    "building": [
-        "Real-World Web Applications",
-        "Cyber Security Projects",
-        "AI-Powered Systems",
-        "Freelance Websites"
-    ],
-
     "mindset": "Learn • Build • Break • Secure • Repeat"
 }
 ```
@@ -141,49 +134,6 @@ and understanding how they work."</i>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
-
-## 🚀 What I'm Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Cyber Security Projects
-Exploring security through practical projects, CTFs,
-web security labs, vulnerable applications, and
-hands-on experimentation.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Applications
-Building modern responsive web applications with
-authentication, databases, APIs, and real-world
-functionality.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Systems
-Experimenting with AI, automation, intelligent
-assistants, and practical AI-powered applications.
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Freelance Development
-Creating modern websites and applications using
-AI-assisted development and modern web technologies.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📚 Currently Learning
 
 <p align="center">
@@ -252,23 +202,6 @@ AI-assisted development and modern web technologies.
       alt="Snake Animation" 
       src="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gokul-CyberExpert&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=181717&color=00E5FF"/>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-<p align="center">
-  <b>I don't just use technology — I like understanding how it works,
-  how it breaks, and how to secure it.</b>
 </p>
 
 ---
