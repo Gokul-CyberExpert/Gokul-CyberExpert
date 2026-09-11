@@ -195,28 +195,25 @@ Creating modern websites and applications for real-world users using AI-assisted
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gokul-CyberExpert&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Gokul-CyberExpert&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gokul-CyberExpert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Gokul-CyberExpert&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-CyberExpert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-CyberExpert&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
-
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gokul-CyberExpert&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gokul-CyberExpert&theme=tokyonight&no-frame=true&margin-w=8"/>
 </p>
 
 ---
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-CyberExpert&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-CyberExpert&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
