@@ -21,8 +21,20 @@ jobs:
       - name: Create dist directory
         run: |
           mkdir -p dist
-          cp README.md dist/index.html
-          cp -r profile-summary-card-output dist/cards
+          # Copy README as index.html
+          if [ -f "README.md" ]; then
+            cp README.md dist/index.html
+          fi
+          # Copy profile cards if directory exists
+          if [ -d "profile-summary-card-output" ]; then
+            cp -r profile-summary-card-output dist/cards
+          else
+            mkdir -p dist/cards
+            echo "Note: profile-summary-card-output directory not found"
+          fi
+          # Verify dist directory structure
+          echo "Contents of dist directory:"
+          ls -la dist/
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
