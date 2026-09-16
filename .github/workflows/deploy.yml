@@ -18,16 +18,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build
-        run: npm run build
+      - name: Create dist directory
+        run: |
+          mkdir -p dist
+          cp README.md dist/index.html
+          cp -r profile-summary-card-output dist/cards
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
