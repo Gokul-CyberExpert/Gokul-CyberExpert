@@ -1,54 +1,42 @@
-name: Deploy
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main  # Change to your default branch if different
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write  # ← Changed from 'read' to 'write'
+  contents: write
   pages: write
   id-token: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create dist directory
-        run: |
-          mkdir -p dist
-          # Copy README as index.html
-          if [ -f "README.md" ]; then
-            cp README.md dist/index.html
-          fi
-          # Copy profile cards if directory exists
-          if [ -d "profile-summary-card-output" ]; then
-            cp -r profile-summary-card-output dist/cards
-          else
-            mkdir -p dist/cards
-            echo "Note: profile-summary-card-output directory not found"
-          fi
-          # Verify dist directory structure
-          echo "Contents of dist directory:"
-          ls -la dist/
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: 'npm'  # Optional: caches npm dependencies
 
-      - name: Verify dist directory exists
-        run: |
-          if [ ! -d "dist" ]; then
-            echo "ERROR: dist directory does not exist!"
-            exit 1
-          fi
-          echo "dist directory verified"
-          ls -la dist/
+      - name: Install dependencies
+        run: npm ci  # or npm install
 
-      - name: Push to Output Branch
+      - name: Build project
+        run: npm run build  # Change this to your build command
+
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: ./dist
+          target_branch: gh-pages
+          build_dir: dist  # Change to your build output directory (e.g., build, public, out)
+          commit_message: "Deploy to GitHub Pages"
+          jekyll: false  # Set to true if using Jekyll
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
