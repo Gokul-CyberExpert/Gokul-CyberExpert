@@ -62,7 +62,8 @@ and understanding how they work."</i>
 </table>
 
 </div>
---
+
+---
 
 ## 🛡️ Cyber Security
 
@@ -165,23 +166,18 @@ and understanding how they work."</i>
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gokul-CyberExpert&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Gokul-CyberExpert&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul-CyberExpert&theme=tokyonight" alt="Profile Details" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokul-CyberExpert&theme=tokyonight" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokul-CyberExpert&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokul-CyberExpert&theme=tokyonight" alt="Stats Summary" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokul-CyberExpert&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-CyberExpert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per Language" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats Summary" />
 </p>
 
 ---
@@ -190,14 +186,14 @@ and understanding how they work."</i>
 
 <p align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
+    <source
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake-dark.svg"/>
-    <source 
-      media="(prefers-color-scheme: light)" 
+    <source
+      media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake.svg"/>
-    <img 
-      alt="Snake Animation" 
+    <img
+      alt="Snake Animation"
       src="https://raw.githubusercontent.com/Gokul-CyberExpert/Gokul-CyberExpert/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
