@@ -162,28 +162,26 @@ and understanding how they work."</i>
   </a>
 </p>
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gokul-CyberExpert&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Gokul-CyberExpert&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gokul-CyberExpert&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Gokul-CyberExpert&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul-CyberExpert&theme=tokyonight"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul-CyberExpert&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokul-CyberExpert&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokul-CyberExpert&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokul-CyberExpert&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokul-CyberExpert&theme=tokyonight" alt="Repos per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokul-CyberExpert&theme=tokyonight" alt="Most Commit Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokul-CyberExpert&theme=tokyonight" alt="Stats Summary" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokul-CyberExpert&theme=tokyonight&utcOffset=5.5"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-CyberExpert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokul-CyberExpert&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-CyberExpert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
