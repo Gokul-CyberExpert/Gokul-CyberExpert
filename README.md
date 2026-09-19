@@ -174,6 +174,22 @@ and understanding how they work."</i>
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gokul-CyberExpert&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+### 📈 GitHub Profile Analytics
+
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img width="32%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per Language" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="32%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats Summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
