@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Gokul N
 
-### 🛡️ Cyber Security Student | Tech Explorer | Future Builder
+### 🛡️ Cyber Security Student | Tech Explorer | Programmer 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Python+Developer;Full+Stack+Web+Developer;AI+%26+ML+Explorer;Building+Real-World+Projects;Always+Learning+Something+New;" />
@@ -32,13 +32,10 @@ gokul = {
     "location": "Tamil Nadu, India 🇮🇳",
 
     "focus": [
-        "Cyber Security",
         "Ethical Hacking",
         "Web Security",
         "Full Stack Development",
-        "Artificial Intelligence"
     ],
-
     "currently_learning": [
         "Python",
         "Data Structures & Algorithms",
