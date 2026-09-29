@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cyber-border.gif" width="100%" alt="Cyber Pixel Border"/>
+</p>
+
 # Hi 👋, I'm Gokul N
 
 ### 🛡️ Cyber Security Student | Tech Explorer | Future Builder
