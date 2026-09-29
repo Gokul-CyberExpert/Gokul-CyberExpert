@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cyber-border.gif" width="100%" alt="Cyber Pixel Border"/>
+  <img src="./assets/assets/tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300) in 2024 _ Pixel art design, Pixel art background, Pix.gif" width="100%" alt="Cyber Pixel Border"/>
 </p>
 
 # Hi 👋, I'm Gokul N
